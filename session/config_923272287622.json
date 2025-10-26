@@ -1,7 +1,7 @@
 {
   "AUTO_VIEW_STATUS": "true",
   "AUTO_LIKE_STATUS": "true",
-  "AUTO_REACT": "true",
+  "AUTO_REACT": "false",
   "AUTO_RECORDING": "false",
   "ANTI_DELETE": "true",
   "PREFIX": ".",
