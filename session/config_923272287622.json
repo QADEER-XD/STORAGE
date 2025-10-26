@@ -4,7 +4,7 @@
   "AUTO_REACT": "true",
   "AUTO_RECORDING": "false",
   "ANTI_DELETE": "true",
-  "PREFIX": ".",
+  "PREFIX": "#",
   "AUTO_LIKE_EMOJI": [
     "💋",
     "🍬",
